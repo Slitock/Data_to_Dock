@@ -1,0 +1,8 @@
+sku_id,qty_rem,base_price,category,last_upd,storage_zone,is_active
+A-105,140,1250.50,electronics,2026-02-08,Zone-A,true
+B-202,12,45500.00,machinery,2026-02-07,Zone-B,true
+C-303,0,15.25,consumables,2026-01-15,Zone-C,false
+D-404,,99.99,electronics,2026-02-10,Zone-A,true
+E-505,500,210.00,consumables,,Zone-C,true
+F-606,5,15000.00,machinery,2026-02-11,,true
+G-707,88,120.45,electronics,2026-02-12,Zone-A,
