@@ -36,9 +36,9 @@ def get_metadata(file_name):
         print(f"Произошла ошибка при чтении файла: {e}")
         return None
 
-# Тестируем
 if __name__ == "__main__":
     data = get_metadata('bd.csv')
     if data:
         print("Метаданные успешно собраны!")
         print(json.dumps(data, indent=4, ensure_ascii=False))
+        print('lox')
