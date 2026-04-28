@@ -1,4 +1,17 @@
-/test
-__pychache__/ 
-*.pyc 
+# Результаты генерации
+DATA_DOC.md
+
+# Папки с тестами
+test/
+
+# Кэш 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
 
