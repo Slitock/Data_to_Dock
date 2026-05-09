@@ -12,7 +12,7 @@ def run_pipeline(input_csv, output_md):
     with open(output_md, "w", encoding="utf-8") as f:
         f.write(markdown_text)
     
-    print(" Документация готова!")
+    print(" Документация готова")
 
 if __name__ == "__main__":
     run_pipeline("bd.csv", "DATA_DOC.md")
